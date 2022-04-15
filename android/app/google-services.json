@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635470577107",
+    "project_id": "signin-a138a",
+    "storage_bucket": "signin-a138a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635470577107:android:494e7b3751c4493bfe4326",
+        "android_client_info": {
+          "package_name": "com.souvikbiswas.flutterfire_samples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635470577107-rd9dl9lvadjsbjhvhhtq8knu077ifl1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3vT-gc_8rDXsa2bn8AJQVSyGdG54WjtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635470577107-rd9dl9lvadjsbjhvhhtq8knu077ifl1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
